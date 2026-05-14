@@ -13,7 +13,7 @@
 - 🌱 Currently learning: **Web Development & GitHub**
 - 💻 Interested in: **Technology, Coding & AI**
 - 🎯 Goal: **Become a skilled developer**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **sia654singh@gmail.com**
 - ⚡ Fun fact: **I love learning new things**
 
 ---
@@ -41,11 +41,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">
+<a href="https://www.linkedin.com/in/damini-singh-904950155?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/yourprofile" target="blank">
+<a href="https://www.instagram.com/its.siyasingh_ss?igsh=MXRhNmNseHoyYWl2eQ==" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" width="30" />
 </a>
 </p>
